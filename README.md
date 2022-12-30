@@ -1,0 +1,1 @@
+This is UI for famous SDKMAN project (https://sdkman.io/).
